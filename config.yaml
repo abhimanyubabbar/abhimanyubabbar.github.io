@@ -1,0 +1,10 @@
+baseURL: "http://example.org/"
+languageCode: "en-us"
+title: "Blog"
+theme: "cupper-hugo-theme"
+
+menu:
+  nav:
+    - name: Home
+      url: /
+      weight: 1
