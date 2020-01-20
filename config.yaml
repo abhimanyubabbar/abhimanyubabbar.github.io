@@ -1,4 +1,4 @@
-baseURL: "http://abhimanyubabbar.org"
+baseURL: "blog.abhimanyubabbar.org"
 languageCode: "en-us"
 title: "Blog"
 theme: "cupper-hugo-theme"
