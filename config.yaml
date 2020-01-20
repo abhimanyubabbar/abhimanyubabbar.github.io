@@ -1,4 +1,4 @@
-baseURL: "https://abhimanyu-babbar.github.io/blog"
+baseURL: "http://abhimanyubabbar.org"
 languageCode: "en-us"
 title: "Blog"
 theme: "cupper-hugo-theme"
